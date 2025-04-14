@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-love-green)
 ![Built With](https://img.shields.io/badge/built%20with-heartstack-blueviolet)
-![Made By](https://img.shields.io/badge/made%20by-%E5%BD%A9%20%28a-suzuki8888%29-pink)
+![Made By](https://img.shields.io/badge/made%20by-a--suzuki8888-pink)
 
 
 「誰かの心を揺さぶる一瞬」を作りたくて、  
