@@ -1,5 +1,10 @@
 # xiao_love
 
+![Status](https://img.shields.io/badge/status-love-green)
+![Built With](https://img.shields.io/badge/built%20with-heartstack-blueviolet)
+![Made By](https://img.shields.io/badge/made%20by-%E5%BD%A9%20%28a-suzuki8888%29-pink)
+
+
 「誰かの心を揺さぶる一瞬」を作りたくて、  
 私は魈くんを、この手で動かすことを決めました。
 
@@ -31,7 +36,7 @@
 
 ## 🖼️ Preview
 
-<img src="./screenshot.png" width="800" alt="xiao_love preview" />
+<img src="./screenshot.png" width="800" alt="魈くんのパーツ構成プレビュー" />
 
 このプロジェクトで実際に描いた魈くんパーツの一部です。
 すべて手描き・パーツ分け・構造設計済み。  
@@ -56,3 +61,15 @@
 ## 📁 ディレクトリ構成（抜粋）
 
 xiao_assets/ ├── front/ │ ├── fullsize/ │ │ ├── arm.png │ │ ├── face.png │ │ └── ... │ └── resized/ │ ├── arm_768.png │ ├── face_768.png │ └── ... ├── back/ ├── left_side/ ├── right_side/ └── extras/ ├── mask.png └── weapon_wahaku_en.png
+
+---
+
+## ⚠️ 注意事項
+
+🔒 このリポジトリ内の素材はすべて非営利の**ファンアート作品**です。  
+原神／魈に関する一切の著作権はHoYoverse様に帰属いたします。
+本データの再配布・二次利用・AI学習利用・商用利用は禁止です。
+
+🔒 This is a non-commercial, fan-art based project.  
+All rights to Genshin Impact and the character Xiao belong to HoYoverse.  
+Please do not use, redistribute, or repurpose these files.
