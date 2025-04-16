@@ -64,6 +64,22 @@ xiao_assets/ ├── front/ │ ├── fullsize/ │ │ ├── arm.png 
 
 ---
 
+## 🎉 Xiao's Birthday Special 🎂
+
+In celebration of Xiao's birthday (April 17th, 2025),  
+this project includes a special Svelte-based birthday animation 🎈✨
+
+![Xiao Birthday Animation](./svelte_animation_demo.gif)
+
+![Xiao Birthday Screenshot](./xiao_birthday_event_2025_screenshot.png)
+
+✨ Happy 2000+ years, Guardian Yaksha ✨  
+May you always be blessed with peace... and *infinite almond tofu*. 🍮🍮🍮🍮🍮
+
+Svelteの練習で魈くんをお祝いし、杏仁豆腐バーストをしました。
+
+---
+
 ## ⚠️ 注意事項
 
 🔒 このリポジトリ内の素材はすべて非営利の**ファンアート作品**です。  
