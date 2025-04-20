@@ -1,0 +1,18 @@
+.svg_wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 20vw;
+  overflow: hidden;
+}
+#svg-container {
+  width: 20vw;
+  height: 20vw;
+  object-position: top;
+}
+
+#svg-container svg {
+  width: 100%;
+  height: auto;
+} 
