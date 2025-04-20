@@ -71,7 +71,7 @@
 - 全パーツ命名済み（例：`front_hair_color`, `eye_highlight`, `ahoge` など）
 - SVGはGSAP・Lottie・Canvas制御に備えた**アニメーション前提設計**
 
-<img src="./screenshot_250420.png" width="794" alt="魈くんのパーツ構成プレビュー　イラレキャプチャ" />
+![魈くんのパーツ構成プレビュー　イラレキャプチャ](./screenshot_250420.png)
 
 ---
 
