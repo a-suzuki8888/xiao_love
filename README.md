@@ -80,7 +80,7 @@
 `/assets/png/` 以下に存在するPNG書き出し素材は、旧構成で使用予定だったパーツ分割画像です。  
 現在は**完全に未使用**となっており、記録としてのみ残しています。
 
-### 🔧 技術構成（備忘録）
+### 🔧 技術構成
 
 - 全方向イラストを**すべて手描きで自作**（front, back, left_side, right_side）
 - **パーツは個別PNG化**、768px基準で `fullsize` / `resized` に分割
@@ -92,7 +92,7 @@
 🕒 制作期間：2日  
 🖼️ 作成枚数：116枚（すべて手作業・色分け済・パーツ分解済）
 
-### 📁 ディレクトリ構成（備忘録）（備忘録）
+### 📁 ディレクトリ構成（一部抜粋）
 
 xiao_assets/ ├── front/ │ ├── fullsize/ │ │ ├── arm.png │ │ ├── face.png │ │ └── ... │ └── resized/ │ ├── arm_768.png │ ├── face_768.png │ └── ... ├── back/ ├── left_side/ ├── right_side/ └── extras/ ├── mask.png └── weapon_wahaku_en.png
 
